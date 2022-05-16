@@ -1,3 +1,4 @@
+#This scipt can be used when we have a large number of files in a folder which we want to name in an order
 import os
 
 #get the path of the file and the file names
