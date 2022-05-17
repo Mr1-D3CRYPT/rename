@@ -2,7 +2,7 @@
 import os
 
 #get the path of the file and the file names
-path = os.getcwd()
+path = os.getcwd()  #or you can set the absolute path of the folder in which the files are located using single quotes(' ') 
 files = os.listdir(path)
 
 #print the file names before iteration
